@@ -33,5 +33,68 @@ To get started, first clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/srabonti03/Whispered-Words.git
-# Navigate into the project directory
-cd "Whispered Words"
+```
+
+#### 2. Set up Environment Variables
+
+Navigate to the backend folder and create a .env file. In the .env file, add the following:
+
+```bash
+PORT=5000
+URI=<Your MongoDB URI here>
+```
+Replace <Your MongoDB URI here> with your actual MongoDB URI.
+
+#### 3. Install Dependencies
+
+##### Backend:
+
+Navigate to the backend directory and install the required dependencies:
+
+```bash
+cd backend
+npm install
+```
+
+##### Frontend:
+
+Navigate to the frontend directory and install the required dependencies:
+
+```bash
+cd frontend
+npm install
+```
+
+### Run the Application
+
+#### 1. Backend:
+
+```bash
+cd backend
+nodemon app.js
+```
+
+#### 2. Frontend:
+
+```bash
+cd frontend
+npm run dev
+```
+
+## View the Project
+
+Once both servers are running, you can view the project by opening the following URL in your browser:
+
+```bash
+Local: http://localhost:5173/
+```
+
+You can expose it to your network using --host or press h + Enter to show help in the terminal.
+
+## Contribution Guidelines
+
+Feel free to fork this repository, open issues, and submit pull requests. All contributions are welcome!
+
+## License
+
+This project is licensed under the Apache License 2.0. Please see the LICENSE file for more details.
