@@ -33,3 +33,5 @@ To get started, first clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/srabonti03/Whispered-Words.git
+# Navigate into the project directory
+cd "Whispered Words"
