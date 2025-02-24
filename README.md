@@ -40,7 +40,7 @@ git clone https://github.com/srabonti03/Whispered-Words.git
 Navigate to the backend folder and create a .env file. In the .env file, add the following:
 
 ```bash
-PORT=5000
+PORT=3001
 URI=<Your MongoDB URI here>
 ```
 Replace <Your MongoDB URI here> with your actual MongoDB URI.
@@ -98,3 +98,18 @@ Feel free to fork this repository, open issues, and submit pull requests. All co
 ## License
 
 This project is licensed under the Apache License 2.0. Please see the LICENSE file for more details.
+
+### What's Included:
+
+```bash
+- **Clone the Repository**: Instruction to clone your project.
+- **Set up Environment Variables**: How to configure the `.env` file.
+- **Install Dependencies**: Steps for installing dependencies in both frontend and backend.
+- **Run the Application**: Instructions to start both the backend and frontend servers.
+- **View the Project**: The URL to access your project locally.
+- **Contribution Guidelines**: Information for contributors.
+- **License**: The project license.
+```
+
+This should now be the complete `README.md` file with **all** the instructions in a single document!
+
