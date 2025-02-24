@@ -101,15 +101,10 @@ This project is licensed under the Apache License 2.0. Please see the LICENSE fi
 
 ### What's Included:
 
-```bash
-- **Clone the Repository**: Instruction to clone your project.
+- **Clone the Repository**: Instructions to clone your project.
 - **Set up Environment Variables**: How to configure the `.env` file.
 - **Install Dependencies**: Steps for installing dependencies in both frontend and backend.
 - **Run the Application**: Instructions to start both the backend and frontend servers.
 - **View the Project**: The URL to access your project locally.
 - **Contribution Guidelines**: Information for contributors.
 - **License**: The project license.
-```
-
-This should now be the complete `README.md` file with **all** the instructions in a single document!
-
