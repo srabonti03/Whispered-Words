@@ -85,9 +85,7 @@ npm run dev
 
 Once both servers are running, you can view the project by opening the following URL in your browser:
 
-```bash
-Local: http://localhost:5173/
-```
+**Local:** [`http://localhost:5173/`](http://localhost:5173/)
 
 You can expose it to your network using --host or press h + Enter to show help in the terminal.
 
@@ -97,7 +95,8 @@ Feel free to fork this repository, open issues, and submit pull requests. All co
 
 ## License
 
-This project is licensed under the Apache License 2.0. Please see the LICENSE file for more details.
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).  
+Please see the [LICENSE](LICENSE) file for more details.
 
 ### What's Included:
 
