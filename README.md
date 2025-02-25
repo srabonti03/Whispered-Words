@@ -40,7 +40,7 @@ git clone https://github.com/srabonti03/Whispered-Words.git
 Navigate to the backend folder and create a .env file. In the .env file, add the following:
 
 ```bash
-PORT=3001
+PORT=<Your preferable Port Address here>
 URI=<Your MongoDB URI here>
 ```
 Replace <Your MongoDB URI here> with your actual MongoDB URI.
