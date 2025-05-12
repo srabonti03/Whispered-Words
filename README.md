@@ -7,7 +7,6 @@ You can access the live demo of the project here: [**Whispered Words**](https://
 
 ## Project Features
 
-- **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Book Browsing**: Users can view a curated list of books.
 - **Favorites System**: Users can add books to their favorites list.
 - **Admin Authentication**: Admin users can manage the catalog.
