@@ -2,6 +2,9 @@
 
 **Whispered Words** is an online bookstore project designed to offer users an immersive shopping experience. Built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), the project features a sleek, minimalist design using **Tailwind CSS** for the frontend. The platform allows users to browse books, add them to favorites, view events, and more.
 
+## Live Demo
+You can access the live demo of the project here: [**Whispered Words**](https://whisperedwords.onrender.com/)
+
 ## Project Features
 
 - **Responsive Design**: Optimized for both desktop and mobile devices.
